@@ -1,0 +1,10 @@
+{
+  "file_path": "*path to files*",
+  "enabled_db_record": 1,
+  "database": {
+    "host": "*host*",
+    "db_name": "*dbname*",
+    "user": "*user*",
+    "password": "*pass*"
+  }
+}
